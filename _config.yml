@@ -9,9 +9,9 @@ description: "Write an awesome description for your new site here. You can edit 
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
-  pic: 1
-  position: Lead Designer
+- name: Ashley Aikman
+  pic: ashley_aikman_mugshot
+  position: Finance Committee Member
   social:
     - title: twitter
       url: #
@@ -20,9 +20,9 @@ people:
     - title: stack-overflow
       url: #
 
-- name: Larry Parker
-  pic: 2
-  position: Lead Marketer
+- name: Clark Wang
+  pic: clark_wang_mugshot
+  position: Technology Committee Member
   social:
     - title: twitter
       url: #
@@ -31,9 +31,9 @@ people:
     - title: linkedin
       url: #
 
-- name: Diana Petersen
-  pic: 3
-  position: Lead Developer
+- name: Emily (Ying) Wang
+  pic: emily_ying_mugshot
+  position: Marketing Committee Member
   social:
     - title: twitter
       url: #
@@ -42,6 +42,104 @@ people:
     - title: google-plus
       url: #
 
+- name: Enrique Santos
+  pic: enrique
+  position: Finance Committee Member
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+- name: Henry Cheong
+  pic: henry_cheong_mugshot
+  position: Finance Committee Member
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+- name: James Wang
+  pic: james_wang_mugshot
+  position: Finance Committee Member
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+- name: Katherine Zhao
+  pic: katherine_zhao
+  position: Marketing Committee Member
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #]
+
+- name: Michael Wu
+  pic: michael_wu_mugshot
+  position: Technology Committee Member
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+- name: Neil Qiao
+  pic: neil_qiao
+  position: Outreach Committee Member
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+- name: Raghav Mittal
+  pic: raghav_mittal_mugshot
+  position: Finance Committee Member
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+- name: Raja Riahi
+  pic: raja_riahi_mugshot
+  position: Outreach Committee Member
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+- name: Rimika Banerjee
+  pic: rimika_banerjee_mugshot
+  position: Technology Committee Member
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: facebook
