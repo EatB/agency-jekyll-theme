@@ -140,6 +140,17 @@ people:
       url: #
     - title: google-plus
       url: #
+
+- name: Atharva Mehendale
+  pic: atharva_mehendale_mugshot
+  position: Technology Committee Member
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: facebook
