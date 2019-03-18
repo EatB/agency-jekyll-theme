@@ -1,62 +1,146 @@
-url: https://y7kim.github.io
+url: https://entrepreneurs.berkeley.edu/
 baseurl:
 
 # Site settings
 title: Entrepreneurs@Berkeley
 email: admin@entrepreneurs.berkeley.edu
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+description: Berkeley's Premier hub for entrepenership. Bringing together founders, innovators, and dreamers. Open to all majors and years
 
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
-  pic: 1
-  position: Lead Designer
+- name: Ashley Aikman
+  pic: ashley_aikman_mugshot
+  position: Finance Committee Member
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
-
-- name: Larry Parker
-  pic: 2
-  position: Lead Marketer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
     - title: linkedin
       url: #
+    - title: envelope
+      url: ashleyaikman@entrepreneurs.berkeley.edu
 
-- name: Diana Petersen
-  pic: 3
-  position: Lead Developer
+- name: Clark Wang
+  pic: clark_wang_mugshot
+  position: Technology Committee Member
   social:
-    - title: twitter
+    - title: linkedin
       url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+    - title: envelope
+      url: clarkwang@entrepreneurs.berkeley.edu
 
+
+- name: Emily (Ying) Wang
+  pic: emily_ying_mugshot
+  position: Marketing Committee Member
+  social:
+    - title: linkedin
+      url: #
+    - title: envelope
+      url: emilywang@entrepreneurs.berkeley.edu
+
+- name: Enrique Santos
+  pic: enrique
+  position: Finance Committee Member
+  social:
+    - title: linkedin
+      url: #
+    - title: envelope
+      url: esantosarias@entrepreneurs.berkeley.edu
+
+- name: Henry Cheong
+  pic: henry_cheong_mugshot
+  position: Finance Committee Member
+  social:
+    - title: linkedin
+      url: #
+    - title: envelope
+      url: cheongh@berkeley.edu
+
+
+- name: James Wang
+  pic: james_wang_mugshot
+  position: Finance Committee Member
+  social:
+    - title: linkedin
+      url: #
+    - title: envelope
+      url: jameswang323@berkeley.edu
+
+- name: Katherine Zhao
+  pic: katherine_zhao
+  position: Marketing Committee Member
+  social:
+    - title: linkedin
+      url: #
+    - title: envelope
+      url: katherine_zhao@entrepreneurs.berkeley.edu
+
+- name: Michael Wu
+  pic: michael_wu_mugshot
+  position: Technology Committee Member
+  social:
+    - title: linkedin
+      url: #
+    - title: envelope
+      url: michaelwu@entrepreneurs.berkeley.edu
+
+- name: Neil Qiao
+  pic: neil_qiao
+  position: Outreach Committee Member
+  social:
+    - title: linkedin
+      url: #
+    - title: envelope
+      url: neilqiao@entrepreneurs.berkeley.edu
+
+- name: Raghav Mittal
+  pic: raghav_mittal_mugshot
+  position: Finance Committee Member
+  social:
+    - title: linkedin
+      url: #
+    - title: envelope
+      url: mittalraghav@berkeley.edu
+
+
+- name: Raja Riahi
+  pic: raja_riahi_mugshot
+  position: Outreach Committee Member
+  social:
+    - title: linkedin
+      url: #
+    - title: envelope
+      url: rajariahi@entrepreneurs.berkeley.edu
+
+- name: Rimika Banerjee
+  pic: rimika_banerjee_mugshot
+  position: Technology Committee Member
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/rimika-banerjee/
+    - title: envelope
+      url: rimikabanerjee@entrepreneurs.berkeley.edu
+
+- name: Atharva Mehendale
+  pic: atharva_mehendale_mugshot
+  position: Technology Committee Member
+  social:
+    - title: linkedin
+      url: #
+    - title: envelope
+      url: atharva@berkeley.edu
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: facebook
     url: https://www.facebook.com/EntrepreneursAtBerkeley
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
+  - title: instagram
+    url: https://www.instagram.com/entrepreneursberkeley/
+  - title: linkedin
+    url: https://www.linkedin.com/company/entrepreneurs-berkeley
 
 # Postal address (add as many lines as necessary)
-address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+# address:
+#   - line: 3481 Melrose Place
+#   - line: Beverly Hills, CA 90210
 
 # Build settings
 markdown: kramdown

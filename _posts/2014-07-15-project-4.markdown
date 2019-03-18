@@ -1,15 +1,15 @@
 ---
-title: Treehouse
-subtitle: Website Design
+title: Wymbo
+subtitle: Raja Riahi, Shawn Magee
 layout: default
 modal-id: 4
 date: 2014-07-15
-img: treehouse.png
-thumbnail: treehouse-thumbnail.png
+img: wymbo_logo.png
+thumbnail: wymbo_logo.png
 alt: image-alt
 project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+#client: Start Bootstrap
+category: Social Media
+description: We bring events and opportunities to college students based on their interests and their career goals. Finding events and opportunities on huge campuses like Cal is extremely time consuming, difficult and not efficient. Wymbo makes sure students, especially freshmen and transfers don’t miss out on opportunities anymore.
 
 ---
