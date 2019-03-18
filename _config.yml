@@ -4,7 +4,7 @@ baseurl:
 # Site settings
 title: Entrepreneurs@Berkeley
 email: admin@entrepreneurs.berkeley.edu
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+description: Berkeley's Premier hub for entrepenership. Bringing together founders, innovators, and dreamers. Open to all majors and years
 
 
 # Team names, titles and social links
@@ -13,11 +13,11 @@ people:
   pic: ashley_aikman_mugshot
   position: Finance Committee Member
   social:
-    - title: twitter
-      url: #
     - title: facebook
       url: #
-    - title: stack-overflow
+    - title: linkedin
+      url: #
+    - title: email
       url: #
 
 - name: Clark Wang
