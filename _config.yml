@@ -13,11 +13,9 @@ people:
   pic: ashley_aikman_mugshot
   position: Finance Committee Member
   social:
-    - title: facebook
-      url: #
     - title: linkedin
       url: #
-    - title: email
+    - title: envelope
       url: #
 
 - name: Clark Wang
