@@ -9,74 +9,43 @@ description: UC Berkeley's Premier hub for entrepenership. Bringing together fou
 
 # Team names, titles and social links
 people:
-- name: Ashley Aikman
-  pic: ashley_aikman_mugshot
-  position: Finance Committee Member
-  social:
-    - title: linkedin
-      url: https://www.linkedin.com/in/ashley-aikman-34369673/
-    - title: envelope
-      url: ashleyaikman@entrepreneurs.berkeley.edu
+# - name: Ashley Aikman
+#   pic: ashley_aikman_mugshot
+#   position: Finance Committee Member
+#   social:
+#     - title: linkedin
+#       url: https://www.linkedin.com/in/ashley-aikman-34369673/
+#     - title: envelope
+#       url: ashleyaikman@entrepreneurs.berkeley.edu
+# - name: Emily (Ying) Wang
+#   pic: emily_ying_mugshot
+#   position: Marketing Committee Member
+#   social:
+#     - title: linkedin
+#       url: https://www.linkedin.com/in/ying-emily-wang-9221a8143/
+#     - title: envelope
+#       url: emilywang@entrepreneurs.berkeley.edu
+# - name: Enrique Santos
+#   pic: enrique
+#   position: Finance Committee Member
+#   social:
+#     - title: linkedin
+#       url: https://www.linkedin.com/in/enrique-santos-139a9a13b/
+#     - title: envelope
+#       url: esantosarias@entrepreneurs.berkeley.edu
+# - name: Raja Riahi
+#   pic: raja_riahi_mugshot
+#   position: Outreach Committee Member
+#   social:
+#     - title: linkedin
+#       url: https://www.linkedin.com/in/rajariahi/
+#     - title: envelope
+#       url: rajariahi@entrepreneurs.berkeley.edu
 
-- name: Clark Wang
-  pic: clark_wang_mugshot
-  position: Technology Committee Member
-  social:
-    - title: linkedin
-      url: https://www.linkedin.com/in/clark-wang-247b97164/
-    - title: envelope
-      url: clarkwang@entrepreneurs.berkeley.edu
-
-
-- name: Emily (Ying) Wang
-  pic: emily_ying_mugshot
-  position: Marketing Committee Member
-  social:
-    - title: linkedin
-      url: https://www.linkedin.com/in/ying-emily-wang-9221a8143/
-    - title: envelope
-      url: emilywang@entrepreneurs.berkeley.edu
-
-- name: Enrique Santos
-  pic: enrique
-  position: Finance Committee Member
-  social:
-    - title: linkedin
-      url: https://www.linkedin.com/in/enrique-santos-139a9a13b/
-    - title: envelope
-      url: esantosarias@entrepreneurs.berkeley.edu
-
-- name: Henry Cheong
-  pic: henry_cheong_mugshot
-  position: Finance Committee Member
-  social:
-    - title: linkedin
-      url: https://www.linkedin.com/in/henry-cheong/
-    - title: envelope
-      url: cheongh@berkeley.edu
-
-
-- name: James Wang
-  pic: james_wang_mugshot
-  position: Finance Committee Member
-  social:
-    - title: linkedin
-      url: https://www.linkedin.com/in/james-wang-50733bb3/
-    - title: envelope
-      url: jameswang323@berkeley.edu
-
-- name: Katherine Zhao
-  pic: katherine_zhao
-  position: Marketing Committee Member
-  social:
-    - title: linkedin
-      url: https://www.linkedin.com/in/katherine-zhao/
-    - title: envelope
-      url: katherine_zhao@berkeley.edu
 
 - name: Michael Wu
   pic: michael_wu_mugshot
-  position: Technology Committee Member
+  position: Co-President
   social:
     - title: linkedin
       url: https://www.linkedin.com/in/michael-wu-50417610a/
@@ -85,49 +54,86 @@ people:
 
 - name: Neil Qiao
   pic: neil_qiao
-  position: Outreach Committee Member
+  position: Co-President
   social:
     - title: linkedin
       url: https://www.linkedin.com/in/neilqiao/
     - title: envelope
       url: neilqiao@entrepreneurs.berkeley.edu
 
-- name: Raghav Mittal
-  pic: raghav_mittal_mugshot
-  position: Finance Committee Member
+- name: Henry Cheong
+  pic: henry_cheong_mugshot
+  position: Internal Operations VP
   social:
     - title: linkedin
-      url: https://www.linkedin.com/in/mittal-raghav-/
+      url: https://www.linkedin.com/in/henry-cheong/
     - title: envelope
-      url: mittalraghav@berkeley.edu
+      url: cheongh@berkeley.edu
 
-
-- name: Raja Riahi
-  pic: raja_riahi_mugshot
-  position: Outreach Committee Member
+- name: Katherine Zhao
+  pic: katherine_zhao
+  position: Finance VP
   social:
     - title: linkedin
-      url: https://www.linkedin.com/in/rajariahi/
+      url: https://www.linkedin.com/in/katherine-zhao/
     - title: envelope
-      url: rajariahi@entrepreneurs.berkeley.edu
+      url: katherine_zhao@berkeley.edu
 
 - name: Rimika Banerjee
   pic: rimika_banerjee_mugshot
-  position: Technology Committee Member
+  position: Public Relations VP
   social:
     - title: linkedin
       url: https://www.linkedin.com/in/rimika-banerjee/
     - title: envelope
       url: rimikabanerjee@entrepreneurs.berkeley.edu
 
+- name: Elaine Gao
+  pic: elaine_mugshot
+  position: Marketing VP
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/elaine-gao-95653516a
+    - title: envelope
+      url: elainegao888@berkeley.edu
+
+- name: Krystal Huang 
+  pic: krystal_mugshot
+  position: External Operations VP
+  social:
+    - title: linkedin
+      url:  https://www.linkedin.com/in/krystal-huang-525233133/
+    - title: envelope
+      url: krystalyuyao@berkeley.edu
+
+- name: Michael Huang 
+  pic: michael_huang_mugshot
+  position: Operations Member
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/michael-huang1/
+    - title: envelope
+      url: mhuang448@berkeley.edu
+
+- name: Clark Wang
+  pic: clark_wang_mugshot
+  position: Operations Member
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/clark-wang-247b97164/
+    - title: envelope
+      url: clarkwang@entrepreneurs.berkeley.edu
+
 - name: Atharva Mehendale
   pic: atharva_mehendale_mugshot
-  position: Technology Committee Member
+  position: Operations Member
   social:
     - title: linkedin
       url: https://www.linkedin.com/in/atharvamehendale/
     - title: envelope
       url: atharva@berkeley.edu
+
+
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: facebook
