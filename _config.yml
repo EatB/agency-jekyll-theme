@@ -52,14 +52,14 @@ people:
     - title: envelope
       url: wuxiaohua1011@berkeley.edu
 
-- name: Neil Qiao
-  pic: neil_qiao
-  position: Co-President
-  social:
-    - title: linkedin
-      url: https://www.linkedin.com/in/neilqiao/
-    - title: envelope
-      url: neilqiao@entrepreneurs.berkeley.edu
+# - name: Neil Qiao
+#   pic: neil_qiao
+#   position: Co-President
+#   social:
+#     - title: linkedin
+#       url: https://www.linkedin.com/in/neilqiao/
+#     - title: envelope
+#       url: neilqiao@entrepreneurs.berkeley.edu
 
 - name: Henry Cheong
   pic: henry_cheong_mugshot
