@@ -12,21 +12,12 @@ people:
 
 - name: Michael Wu
   pic: michael_wu_mugshot
-  position: Co-President
+  position: President
   social:
     - title: linkedin
       url: https://www.linkedin.com/in/michael-wu-50417610a/
     - title: envelope
       url: wuxiaohua1011@berkeley.edu
-
-- name: Henry Cheong
-  pic: henry_cheong_mugshot
-  position: Internal Operations VP
-  social:
-    - title: linkedin
-      url: https://www.linkedin.com/in/henry-cheong/
-    - title: envelope
-      url: cheongh@berkeley.edu
 
 - name: Katherine Zhao
   pic: katherine_zhao
@@ -37,32 +28,46 @@ people:
     - title: envelope
       url: katherine_zhao@berkeley.edu
 
-- name: Rimika Banerjee
-  pic: rimika_banerjee_mugshot
-  position: Public Relations VP
+- name: Max Kim
+  pic: max
+  position: Public Relations
   social:
     - title: linkedin
-      url: https://www.linkedin.com/in/rimika-banerjee/
+      url: https://www.linkedin.com/in/max-kim-371903194/
     - title: envelope
-      url: rimikabanerjee@entrepreneurs.berkeley.edu
+      url: maxkim@berkeley.edu
 
-- name: Elaine Gao
-  pic: elaine_mugshot
-  position: Marketing VP
+- name: Rachel Moy
+  pic: rachel
+  position: Marketing
   social:
     - title: linkedin
-      url: https://www.linkedin.com/in/elaine-gao-95653516a
+      url: https://www.linkedin.com/in/rachelkarminmoy/
     - title: envelope
-      url: elainegao888@berkeley.edu
+      url: rachelmoy@berkeley.edu
 
-- name: Atharva Mehendale
-  pic: atharva_mehendale_mugshot
-  position: Operations Member
+- name: Arda Demirci
+  pic: arda
+  position: Marketing
   social:
     - title: linkedin
-      url: https://www.linkedin.com/in/atharvamehendale/
+      url: https://www.linkedin.com/in/ardademirci14/
     - title: envelope
-      url: atharva@berkeley.edu
+      url: ardademirci@berkeley.edu
+
+- name: Dyllan Liu
+  pic: dyllan_liu
+  position: Finance
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/dyllan-liu-02ab4018a/
+    - title: envelope
+      url: dyllan2001@berkeley.edu
+
+
+
+
+
 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
