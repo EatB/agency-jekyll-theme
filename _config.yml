@@ -66,7 +66,32 @@ people:
 
 
 
+- name: Nick Lai
+  pic: nick_lai
+  position: Event Planning
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/nickplai/
+    - title: envelope
+      url: nickplai@berkeley.edu
 
+- name: Khushi Malde
+  pic: khushi
+  position: Public Relations
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/khushi-malde/
+    - title: envelope
+      url: khushimalde@berkeley.edu
+
+- name: Sahil Mehta
+  pic: sahil
+  position: Public Relations
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/sahil-mehta-412783190/
+    - title: envelope
+      url: mehtasahil881@berkeley.edu
 
 
 
