@@ -1,0 +1,14 @@
+---
+title: CampusPool
+subtitle: Bader Almubarak, Peri Yakar
+layout: default
+modal-id: 7
+date: 2014-07-12
+img: campuspool_logo.png
+thumbnail: campuspool_logo.png
+alt: image-alt
+project-date: Fall 2019
+#client: Start Bootstrap
+category: Social Media
+description: CampusPool is a mobile application that matches college students looking for Uber rides, allowing users to save money through ridesharing. 
+---

@@ -1,0 +1,14 @@
+---
+title: ViewR360
+subtitle: Nimi Kalmanovich, Youqi Chen, Giovanni Santini
+layout: default
+modal-id: 2
+date: 2014-07-17
+img: viewr360.png
+thumbnail: viewr360.png
+alt: image-alt
+project-date: Fall 2018
+#client: Start Bootstrap
+category: Virtual Reality
+description: VR 360 is a live-streaming platform providing one-on-one or few-to-one live streaming sessions with a dedicated streamer, bringing tailor-made content and experiences.
+---

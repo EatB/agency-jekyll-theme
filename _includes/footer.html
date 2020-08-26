@@ -2,16 +2,16 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-4">
-                    <span class="copyright">Copyright &copy; {{ site.title }} {{ 'now' | date: "%Y" }}</span>
+                    <span class="copyright">Copyright © Entrepreneurs@Berkeley 2020</span>
 
 
                 </div>
                 <div class="col-md-4">
                     <ul class="list-inline social-buttons">
-                        {% for network in site.social %}
-                        <li><a href="{{ network.url }}"><i class="fa fa-{{ network.title }}"></i></a>
-                        </li>
-                        {% endfor %}
+                        <li><a href="https://www.facebook.com/EntrepreneursAtBerkeley"><i class="fa fa-facebook"></i></a></li>
+                        
+                        <li><a href="https://www.instagram.com/entrepreneursberkeley/"><i class="fa fa-instagram"></i></a></li>
+                        <li><a href="https://www.linkedin.com/company/entrepreneurs-berkeley"><i class="fa fa-linkedin"></i></a></li>
                     </ul>
 
                 </div>
@@ -30,4 +30,17 @@
             </div>
         </div>
         <p>We are a student group acting independently of the University of California. We take full responsibility for our organization and this web site.</p>
+
+        <style>
+            .circl {
+                width: 20px;
+                height: 20px;
+                background: black; 
+                /*-moz-border-radius: 70px; 
+                -webkit-border-radius: 70px; */
+                color: white;
+                padding: 8px;
+                margin: 4px;
+            }
+        </style>
     </footer>

@@ -1,0 +1,14 @@
+---
+title: Muse.it
+subtitle: Bader Almubarak, Peri Yakar
+layout: default
+modal-id: 6
+date: 2014-07-13
+img: museit_logo.png
+thumbnail: museit_logo.png
+alt: image-alt
+project-date: Fall 2019
+#client: Start Bootstrap
+category: Social Media
+description: Muse.it is a social music platform that expedites music discovery and sharing through 15 secs of music curation and a centralized, user friendly interface.
+---

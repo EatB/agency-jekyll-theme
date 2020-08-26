@@ -1,0 +1,13 @@
+---
+title: WinAr
+layout: default
+modal-id: 5
+date: 2014-07-14
+img: winar_logo.png
+thumbnail: winar_logo.png
+alt: image-alt
+project-date: Fall 2019
+#client: Start Bootstrap
+category: Social Media
+description: winAR provides athletes the ability to train against realistic holograms by harnessing augmented reality, running perfect drils against customizable opponents without risking serious injury. 
+---

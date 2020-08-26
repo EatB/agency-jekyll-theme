@@ -1,0 +1,15 @@
+---
+title: Wymbo
+subtitle: Raja Riahi, Shawn Magee
+layout: default
+modal-id: 1
+date: 2014-07-18
+img: wymbo.jpg
+thumbnail: wymbo.jpg
+alt: image-alt
+project-date: Fall 2018
+#client: Start Bootstrap
+category: Social Media
+progress: SkyDeck HotDesk (Spring 2019)
+description: Wymbo is a platform providing events and opportunities to students based on their interests and their career goals, helping students at huge campuses like Cal navigate their college journey. 
+---

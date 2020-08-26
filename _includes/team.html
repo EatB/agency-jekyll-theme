@@ -1,5 +1,6 @@
 <!-- Team Section -->
-    <section id="team" class="bg-light-gray">
+
+    <section id="team">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
@@ -11,7 +12,7 @@
                 {% for member in site.people %}
                 <div class="col-sm-3">
                     <div class="team-member">
-                        <img height="150px" width="150px" src="img/team/{{ member.pic }}.jpg" class="img-responsive img-circle" alt="">
+                        <img height="150px" width="150px" src="https://mentorship-platform-tester-bucket.s3-us-west-1.amazonaws.com/team/{{ member.pic }}.jpg" class="img-responsive img-circle" alt="">
                         <h4>{{ member.name }}</h4>
                         <p class="text-muted">{{ member.position }}</p>
                         <ul class="list-inline social-buttons">
@@ -28,10 +29,30 @@
                 </div>
                 {% endfor %}
             </div>
+            <!--
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2 text-center">
                     <p class="large text-muted">Intersted in joining E@B? Apply <a href="https://goo.gl/forms/ovi1R5jZ3uORRhYo2">here </a>.</p>
                 </div>
             </div>
+            -->
         </div>
+
+        <style>
+            span + span {
+                margin-top: 20px;
+            }  
+
+            .circle {
+                width: 140px;
+                height: 140px;
+                background: black; 
+                -moz-border-radius: 70px; 
+                -webkit-border-radius: 70px; 
+                border-radius: 70px;
+                color: white;
+                padding: 8px;
+                margin: 4px;
+            }
+        </style>
     </section>

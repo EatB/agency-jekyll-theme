@@ -1,0 +1,15 @@
+---
+title: Funnel
+subtitle: Prachi Jha, Kushagra Pandey, Beta Jui, Shao-Qian Mah
+layout: default
+modal-id: 3
+date: 2014-07-16
+img: funnel_logo.png
+thumbnail: funnel_logo.png
+alt: image-alt
+project-date: Fall 2018
+progress: Currently Seeking $200K Funding
+#client: Start Bootstrap
+category: Food
+description: Funnel is an app that keeps track of all the food the you have - reminding you to eat food before it goes bad and suggesting recipes and ingredients to make your favorite meals.
+---

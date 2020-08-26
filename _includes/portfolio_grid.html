@@ -1,28 +1,46 @@
 <!-- Portfolio Grid Section -->
     <section id="portfolio" class="bg-light-gray">
         <div class="container">
+
+            <style>
+                .card {
+                    background-color: white;
+                    padding: 20px;
+
+                    width: 500px;
+                    height: 375px;
+
+                }
+            </style>
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <h2 class="section-heading">Past Teams</h2>
+                    <h2 class="section-heading">Past Projects</h2>
                     <h3 class="section-subheading text-muted"> </h3>
                 </div>
             </div>
             <div class="row">
             {% for post in site.posts %}
+                
                 <div class="col-md-6 col-sm-6 portfolio-item">
-                    <a href="#portfolioModal{{ post.modal-id }}" class="portfolio-link" data-toggle="modal">
-                        <div class="portfolio-hover">
-                            <div class="portfolio-hover-content">
-                                <i class="fa fa-plus fa-3x"></i>
-                            </div>
+
+                    <div class="card">
+                        <div>
+                            <img height="200px" src="https://mentorship-platform-tester-bucket.s3-us-west-1.amazonaws.com/projects/{{ post.img }}" class="img-responsive img-centered" alt="" style="width: auto; height: 180;">
+
+
+                            <h4 style="text-align: center;">{{ post.title }}</h4>
                         </div>
-                        <img width="300px" src="img/portfolio/{{ post.thumbnail }}" class="img-responsive img-centered" alt="">
-                    </a>
-                    <div class="portfolio-caption">
-                        <h4>{{ post.title }}</h4>
-                        <p class="text-muted">{{ post.subtitle }}</p>
+                        
+                        {% if post.progress %}
+                            <h6 style="text-align: center; font-style: italic;">{{ post.progress }}</h6>
+                        {% endif %}
+                        <p style="text-align: center;">{{ post.description }}</p>
                     </div>
+
+
+
                 </div>
+
             {% endfor %}
             </div>
         </div>

@@ -1,0 +1,14 @@
+---
+title: Deep
+subtitle: Bader Almubarak, Peri Yakar
+layout: default
+modal-id: 4
+date: 2014-07-15
+img: deep_logo.png
+thumbnail: deep_logo.png
+alt: image-alt
+project-date: Fall 2018
+#client: Start Bootstrap
+category: Social Media
+description: Deep is a platform enabling one-one-one conversations about any topic, creating a culture of intentional conversations and meaningful connections. 
+---

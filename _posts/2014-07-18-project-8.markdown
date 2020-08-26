@@ -1,0 +1,15 @@
+---
+title: bumpR
+subtitle: Bader Almubarak, Peri Yakar
+layout: default
+modal-id: 8
+date: 2014-07-11
+img: bumpR_logo.png
+thumbnail: bumpR_logo.png
+alt: image-alt
+project-date: Fall 2019
+progress: $5,000 Haas Student Seed, 3rd Place @ AccelerateHer
+#client: Start Bootstrap
+category: Social Media
+description: bumpR is a digital screen on the rear of car windows that displays geofenced advertisements for companies, providing commuters and rideshare drivers a source of passive income. 
+---

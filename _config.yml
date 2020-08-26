@@ -10,54 +10,57 @@ description: UC Berkeley's Premier hub for entrepenership. Bringing together fou
 # Team names, titles and social links
 people:
 
-- name: Michael Wu
-  pic: michael_wu_mugshot
-  position: President
+- name: Sahil Mehta
+  pic: sahil
+  position: Co-President
   social:
     - title: linkedin
-      url: https://www.linkedin.com/in/michael-wu-50417610a/
+      url: https://www.linkedin.com/in/sahil-mehta-412783190/
     - title: envelope
-      url: wuxiaohua1011@berkeley.edu
+      url: mehtasahil881@berkeley.edu
 
-- name: Katherine Zhao
-  pic: katherine_zhao
-  position: Finance VP
+- name: Nick Lai
+  pic: nick_lai
+  position: Co-President
   social:
     - title: linkedin
-      url: https://www.linkedin.com/in/katherine-zhao/
+      url: https://www.linkedin.com/in/nickplai/
     - title: envelope
-      url: katherine_zhao@berkeley.edu
+      url: nickplai@berkeley.edu
+
+
+- name: Khushi Malde
+  pic: khushi
+  position: Operations VP
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/khushi-malde/
+    - title: envelope
+      url: khushimalde@berkeley.edu
 
 - name: Max Kim
   pic: max
-  position: Public Relations
+  position: Operations VP
   social:
     - title: linkedin
       url: https://www.linkedin.com/in/max-kim-371903194/
     - title: envelope
       url: maxkim@berkeley.edu
 
+
 - name: Rachel Moy
   pic: rachel
-  position: Marketing
+  position: Marketing VP
   social:
     - title: linkedin
       url: https://www.linkedin.com/in/rachelkarminmoy/
     - title: envelope
       url: rachelmoy@berkeley.edu
 
-- name: Arda Demirci
-  pic: arda
-  position: Marketing
-  social:
-    - title: linkedin
-      url: https://www.linkedin.com/in/ardademirci14/
-    - title: envelope
-      url: ardademirci@berkeley.edu
 
 - name: Dyllan Liu
   pic: dyllan_liu
-  position: Finance
+  position: Finance VP
   social:
     - title: linkedin
       url: https://www.linkedin.com/in/dyllan-liu-02ab4018a/
@@ -65,33 +68,15 @@ people:
       url: dyllan2001@berkeley.edu
 
 
+- name: Serena Cheng
+  pic: serena_cheng
+  position: Public Relations VP
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/xiqun-cheng-71308b169/
+    - title: envelope
+      url: xiquncheng@berkeley.edu
 
-- name: Nick Lai
-  pic: nick_lai
-  position: Event Planning
-  social:
-    - title: linkedin
-      url: https://www.linkedin.com/in/nickplai/
-    - title: envelope
-      url: nickplai@berkeley.edu
-
-- name: Khushi Malde
-  pic: khushi
-  position: Public Relations
-  social:
-    - title: linkedin
-      url: https://www.linkedin.com/in/khushi-malde/
-    - title: envelope
-      url: khushimalde@berkeley.edu
-      
-- name: Sahil Mehta
-  pic: sahil
-  position: Public Relations
-  social:
-    - title: linkedin
-      url: https://www.linkedin.com/in/sahil-mehta-412783190/
-    - title: envelope
-      url: mehtasahil881@berkeley.edu
 
 
 
