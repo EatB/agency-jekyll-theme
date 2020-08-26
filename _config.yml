@@ -13,6 +13,8 @@ people:
 - name: Sahil Mehta
   pic: sahil
   position: Co-President
+  linkedIn: https://www.linkedin.com/in/sahil-mehta-412783190/
+  mail: mehtasahil881@berkeley.edu
   social:
     - title: linkedin
       url: https://www.linkedin.com/in/sahil-mehta-412783190/
@@ -22,6 +24,8 @@ people:
 - name: Nick Lai
   pic: nick_lai
   position: Co-President
+  linkedIn: https://www.linkedin.com/in/nickplai/
+  mail: nickplai@berkeley.edu
   social:
     - title: linkedin
       url: https://www.linkedin.com/in/nickplai/
@@ -32,6 +36,8 @@ people:
 - name: Khushi Malde
   pic: khushi
   position: Operations VP
+  linkedIn: https://www.linkedin.com/in/khushi-malde/
+  mail: khushimalde@berkeley.edu
   social:
     - title: linkedin
       url: https://www.linkedin.com/in/khushi-malde/
@@ -41,6 +47,8 @@ people:
 - name: Max Kim
   pic: max
   position: Operations VP
+  linkedIn: https://www.linkedin.com/in/max-kim-371903194/
+  mail: maxkim@berkeley.edu
   social:
     - title: linkedin
       url: https://www.linkedin.com/in/max-kim-371903194/
@@ -51,6 +59,8 @@ people:
 - name: Rachel Moy
   pic: rachel
   position: Marketing VP
+  linkedIn: https://www.linkedin.com/in/rachelkarminmoy/
+  mail: rachelmoy@berkeley.edu
   social:
     - title: linkedin
       url: https://www.linkedin.com/in/rachelkarminmoy/
@@ -61,6 +71,8 @@ people:
 - name: Dyllan Liu
   pic: dyllan_liu
   position: Finance VP
+  linkedIn: https://www.linkedin.com/in/dyllan-liu-02ab4018a/
+  mail: dyllan2001@berkeley.edu
   social:
     - title: linkedin
       url: https://www.linkedin.com/in/dyllan-liu-02ab4018a/
@@ -71,6 +83,8 @@ people:
 - name: Serena Cheng
   pic: serena_cheng
   position: Public Relations VP
+  linkedIn: https://www.linkedin.com/in/xiqun-cheng-71308b169/
+  mail: xiquncheng@berkeley.edu
   social:
     - title: linkedin
       url: https://www.linkedin.com/in/xiqun-cheng-71308b169/
